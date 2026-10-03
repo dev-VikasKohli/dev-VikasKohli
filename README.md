@@ -10,23 +10,16 @@ I like building things that are simple, useful, and easy to understand — and I
 
 🛠️ Tools & Tech
 
-☕ Java
-
-🌱 Spring Boot
-
-🔗 REST APIs
-
-🗄️ MySQL
-
-🌐 HTML, CSS, JavaScript
-
-⚛️ React — Basics
-
-🔧 Git & GitHub
-
+    ☕ Java
+    🔗 REST APIs
+    🗄️ MySQL
+    🌐 HTML, CSS, JavaScript
+    ⚛️ React — Basics
+    🔧 Git & GitHub
+  
 🎓 A Bit About Me
 
-🎓 BTech CSE student at Maharaja Agrasen University
+   🎓 BTech CSE student at Maharaja Agrasen University
 
 💻 Aspiring Java / Backend Developer
 
