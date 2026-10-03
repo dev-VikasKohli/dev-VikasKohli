@@ -52,7 +52,7 @@ I like building things that are simple, useful, and easy to understand — and I
 
 🤝 Let's Connect
 
-   💼 LinkedIn
+   💼 LinkedIn linkedin.com/in/vikas-9869023aa
 
    🐙 GitHub
 
